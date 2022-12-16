@@ -33,7 +33,7 @@ github_username:
 # theme: minima
 remote_theme:  LeNPaul/portfolio-jekyll-theme 
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap, jekyll-feed,  jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
