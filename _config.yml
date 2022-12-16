@@ -30,7 +30,8 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme:  LeNPaul/portfolio-jekyll-theme 
 plugins:
   - jekyll-feed
 
