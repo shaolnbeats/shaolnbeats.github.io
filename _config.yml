@@ -29,7 +29,7 @@ twitter_username:
 github_username:  
 
 # Set background image
-background-image: url('/assets/img/bg/sf.jpeg')
+background-image: url('/assets/img/bg/sf.jpg')
 
 # Build settings
 # theme: minima
