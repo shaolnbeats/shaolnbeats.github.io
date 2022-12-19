@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# about | shaoln
+# about me
 
-I make beats.
+i make beats.
