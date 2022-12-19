@@ -12,10 +12,10 @@ menu:
 
 projects:
 - {name: '1',   url: 'proj-1'}
-- {name: '2',   url: 'proj-2'}
-- {name: '3', url: 'proj-3'}
-- {name: '4',  url: 'proj-4'}
-- {name: '5',  url: 'proj-5'}
+#- {name: '2',   url: 'proj-2'}
+#- {name: '3', url: 'proj-3'}
+#- {name: '4',  url: 'proj-4'}
+#- {name: '5',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
